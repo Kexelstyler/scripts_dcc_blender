@@ -1,0 +1,1 @@
+placeholder_text = "Das ist ein placeholder"
